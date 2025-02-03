@@ -1,4 +1,4 @@
-package com.enisfr.days
+package com.enisfr.adventofcode.days
 
 import java.io.File
 
